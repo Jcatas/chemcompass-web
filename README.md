@@ -2,8 +2,8 @@
 
 这是一个自动跳转到 ChemCompass Web Query 的页面。
 
-## 当前地址
-https://dark-bears-pull.loca.lt
+## 当前
+https://funny-walls-taste.loca.lt/
 
 ## 固定访问地址
 https://Jcatas.github.io/chemcompass-web/
